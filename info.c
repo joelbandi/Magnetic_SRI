@@ -5,7 +5,10 @@
  *  Author: joel
  */
 
-/* XMEGA PINOUTS:
+/* 
+IGNORE BTA,BTB and DIP SWITCHES they are present for future purposes
+
+XMEGA PINOUTS:
 
 TILE ACTIVATES
 tile one activate pin = port A pin 0
@@ -20,3 +23,4 @@ tile nine  activate pin = port B, pin 7
 
 LED_GREEN (PORTD, 4)
 LED_RED(PORTC, 0)
+
